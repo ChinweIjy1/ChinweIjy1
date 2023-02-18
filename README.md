@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChinweIjy1
+- 👋 # Hi, I’m @ChinweIjy1
 - 👀 I’m interested in Software Engineering and Cloud Computing
 - 🌱 I’m currently learning Cloud Computing 
 - 💞️ I’m looking to collaborate with any Cloud Engineer and teams
